@@ -2,13 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEditor;
-using UnityEditor.EditorTools;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.UIElements;
 using TMPro;
 using UnityEngine.Events;
-using UnityEditor.ShaderGraph;
 
 public class Snake : MonoBehaviour
 {
